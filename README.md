@@ -1,2 +1,2 @@
-# Library-Management-System
+# Library
 Library data and management of books
